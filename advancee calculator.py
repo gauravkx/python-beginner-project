@@ -2,8 +2,8 @@
 
 print("======ADVANCEE CALCULATOR======")
 
-num1 = float(input("enter num1"))
-num2 = float(input("enter num2"))
+num1 = float(input("enter num1: "))
+num2 = float(input("enter num2: "))
 
 print("HERE ARE RESULT")
 
@@ -16,3 +16,4 @@ print("modulus is", round(num1%num2, 2))
 print("exponent is", round(num1**num2,2))
 
 print('THANKS FOR USING THIS CALCULATOR \n COME BACK AGAIN')
+
